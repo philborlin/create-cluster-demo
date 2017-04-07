@@ -11,7 +11,7 @@ allows us to create a few Domain Specific Languages (DSL),
 write a service using a combination of those DSLs and
 to split the interpretation of our service from the
 definition of it. This allows our side-effect heavy
-demo to be written in pure side-effect free way.
+demo to be written in a pure side-effect free way.
 
 In the demo three AWS services are utilized: EC2, ECS,
 and ELBv2 (alternatively known as ALB). The code has
