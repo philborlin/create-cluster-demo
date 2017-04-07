@@ -43,6 +43,7 @@ argument.
 ## Expected Result
 Running this program will create the following AWS
 resources:
+
 * 2 EC2 instances
 * 2 Subnets
 * an ALB,
